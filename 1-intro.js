@@ -6,3 +6,4 @@ if (amount < 10) {
 }
 
 console.log(`hey its my first node app`);
+console.log("Nodemon restart");
